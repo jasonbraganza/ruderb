@@ -17,7 +17,7 @@
 - [ ] Find dependencies, like I use in Python / Go  
       - viper(MIT)=[config](https://crates.io/crates/config) MIT  
       - cobra command line framework=[clap](https://crates.io/crates/clap) MIT  
-      - dhowden/tag(BSD-2)=[audiotags](https://crates.io/crates/audiotags) MIT
+      - dhowden/tag(BSD-2)=[audiotags](https://crates.io/crates/audiotags) MIT  
       - gorilla/feeds(BSD-3)=[feed-rs](https://crates.io/crates/feed-rs)  
       - goreleaser=[cargo-dist](https://crates.io/crates/cargo-dist) MIT goreleaser might also do it for rust  
 - [ ] Update Project LICENSE once I figure out above (BSD 2 Clause)

@@ -3,7 +3,7 @@
 ***Unfinished WIP! DO NOT USE***  
 [Derb](https://github.com/jasonbraganza/derb) is Python. [ReDerb](https://github.com/jasonbraganza/rederb) is Go. ***RuDerb*** is Rust!
 
-
+2025-11-06: Work on hiatus for now
 
 ## What is RuDerb
 RuDerb is a small, niche utility that takes a path to a directory full of audio files
